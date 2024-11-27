@@ -1,8 +1,8 @@
 // eslint.config.mjs
-import antfu from '@antfu/eslint-config'
+// import antfu from '@antfu/eslint-config'
 
-export default antfu({
-  rules: {
-    'no-console': 'off',
-  },
-})
+// export default antfu({
+//   rules: {
+//     'no-console': 'off',
+//   },
+// })
